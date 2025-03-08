@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Drigrocha</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,11 +11,7 @@
             src="https://img.shields.io/twitter/follow/UsmanDrigrocha?logo=twitter&style=for-the-badge"
             alt="UsmanDrigrocha" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **JavaScript**
+- 🔭 I’m currently working on **Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
